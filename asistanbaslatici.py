@@ -24,7 +24,7 @@ temel={"nasılsın":"çok iyiyim",
        "merhaba":"merhaba",
        "napıyosun":"senden bir komut bekliyorum",
        "kimsin":"ben Murat İlhan tarafından üretilen bir Asistanın ilk sürümüyüm.İsmim asistan",
-       "özellik,özelliklerin":"senin için youtube,google,gibi platformlarda istediğini sunabilirim.instagram,twitch,facebook gibi platformları açmak istediğinde bana sadece açmamı söylemen yeterli.Gün içerisinde hava durumu güncel saat ve aradığın konumu senin için bulabilirim.",
+       "özellik":"senin için youtube,google,gibi platformlarda istediğini sunabilirim.instagram,twitch,facebook gibi platformları açmak istediğinde bana sadece açmamı söylemen yeterli.Gün içerisinde hava durumu güncel saat ve aradığın konumu senin için bulabilirim.",
        "özelliklerin":"senin için youtube,google,gibi platformlarda istediğini sunabilirim.instagram,twitch,facebook gibi platformları açmak istediğinde bana sadece açmamı söylemen yeterli.Gün içerisinde hava durumu güncel saat ve aradığın konumu senin için bulabilirim."}
 
 
